@@ -1,7 +1,5 @@
 # Employee Attrition Prediction
 ![DALL·E 2024-01-04 18 07 52 - A futuristic digital art illustration depicting the concept of employee attrition prediction and analysis using machine learning models  The image fea](https://github.com/ViswanathRajuIndukuri/Employee-Attrition-Prediction/assets/144731305/582df905-9902-45ac-a06b-2704e6d8203d)
-# Employee Attrition Prediction
-
 ## Introduction
 
 This project aims to predict employee attrition, which is a crucial concern for organizations. Employee attrition, or the rate at which employees leave a company, can have a significant impact on an organization's productivity, costs, and overall success. By predicting which employees are more likely to leave, companies can take proactive measures to retain their valuable talent.
@@ -29,7 +27,7 @@ To prepare the data for analysis, we performed the following steps:
 
 ## Exploratory Data Analysis (EDA)
 
-We conducted exploratory data analysis to gain insights into the dataset. Here are some key findings:
+Conducted exploratory data analysis to gain insights into the dataset. Here are some key findings:
 
 - Certain job roles, such as 'Laboratory Technician,' 'Sales Executive,' and 'Research Scientist,' are more likely to experience attrition.
 - Employees with backgrounds in Life Sciences and Medical fields show higher attrition rates.
@@ -39,6 +37,6 @@ We conducted exploratory data analysis to gain insights into the dataset. Here a
 
 ## Model Building and Evaluation
 
-We built several machine learning models to predict employee attrition, including Ridge Regression, Logistic Regression, XGBoost, and Random Forest. The performance of these models was evaluated using accuracy scores, classification reports, and confusion matrices.
+Built several machine learning models to predict employee attrition, including Ridge Regression, Logistic Regression, XGBoost, and Random Forest. The performance of these models was evaluated using accuracy scores, classification reports, and confusion matrices.
 
 - The XGBoost model achieved the highest accuracy (88%) and performed well in terms of true positive and false positive rates.
