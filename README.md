@@ -6,6 +6,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
 ![DALL·E 2024-01-04 18 07 52 - A futuristic digital art illustration depicting the concept of employee attrition prediction and analysis using machine learning models  The image fea](https://github.com/ViswanathRajuIndukuri/Employee-Attrition-Prediction/assets/144731305/582df905-9902-45ac-a06b-2704e6d8203d)
